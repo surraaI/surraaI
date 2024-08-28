@@ -20,11 +20,10 @@
 <p align="center"><a href="https://github.com/surraaI"><img src="https://github.com/surraaI/surraaI/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
 
 <a href="https://github.com/surraaI/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
 
 <img src="https://github.com/surraaI/surraaI/blob/master/2nd%20arrow.gif?raw=true">
-
 
   <!-- Typing SVG by surraaI - https://github.com/surraaI/readme-typing-svg -->
 </p>
@@ -47,7 +46,7 @@
 
 
 ### 
-<!-- <p align="center"> 
+<p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/surraaI/count.svg"/>
   </p>
@@ -56,7 +55,7 @@
 <p align="center"> 
 <img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
 </p>  
-   -->
+  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surraaI&theme=gotham&layout=compact"width="40%"/> 
 </p>
@@ -64,7 +63,7 @@
 <p align="center">
 <a href="https://github.com/surraaI?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=surraaI&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@surraaI's github-readme-stats"/></a>
 
-<a href="https://github.com/surraaI?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/surraaI?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="45%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 
