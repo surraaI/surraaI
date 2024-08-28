@@ -69,6 +69,7 @@
 
 <p align="center">
 <a href="https://github.com/surraaI?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=surraaI&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@surraaI's github-readme-stats"/></a>
+
 <a href="https://github.com/surraaI?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
@@ -98,9 +99,6 @@
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25" />
   </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" height="25" />
-  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
   </a>
@@ -109,9 +107,6 @@
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="25" height="25" />
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
   </a>
   <a href="https://www.apple.com/macos/sonoma/" target="_blank">
     <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
@@ -277,22 +272,15 @@
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
 #### 🅒🅘 / 🅒🅓
 ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
+
 
 #### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
 #### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
@@ -324,7 +312,7 @@
 
 <div align="center">
 
-<img height="30" alt="Thanks for visiting me" width="100%"/>
+<h1>Thanks for visiting me </h1>
 <br />
 
 
