@@ -19,7 +19,7 @@
 
 <p align="center"><a href="https://github.com/surraaI"><img src="https://github.com/surraaI/surraaI/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
 
-<a href="https://github.com/surraaI/readme-typing-svg">
+<a href="https://github.com/surraaI">
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </a>
 
