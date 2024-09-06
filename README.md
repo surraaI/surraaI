@@ -134,8 +134,8 @@
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
+        <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="icon" width="40" height="40" />
+      <br>flutter
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
