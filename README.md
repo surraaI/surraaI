@@ -32,13 +32,10 @@
 <p align="center">
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
-<p align="center">
-
-
+<p align="inline">
 <a href="https://www.linkedin.com/in/surraa-i" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://t.me/surraa777" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://t.me/surraa777" target="_blank"><img alt="" src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=Telegram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="mailto:suraitana@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
-
 <a href="https://leetcode.com/sura_itana" target="_black"><img alt="" src="https://img.shields.io/badge/leetcode-000?logo=leetcode&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://codeforces.com/profile/Surraa"><img alt="" src="https://img.shields.io/badge/codeforce-000?logo=codeforde&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.hackerrank.com/suraitana"><img alt="" src="https://img.shields.io/badge/hackerrank-000?logo=hackerrank&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
