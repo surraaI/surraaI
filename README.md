@@ -45,11 +45,11 @@
 ### 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/surraaI/count.svg"/>
+  <!-- <img src="https://profile-counter.glitch.me/surraaI/count.svg"/> -->
   </p>
 
   
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surraaI&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
@@ -60,12 +60,12 @@
     <a href="https://github.com/surraaI?tab=stars">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=surraaI&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@surraaI's github-readme-streak-stats"/>
     </a>
-</p> -->
+</p>
 
 
 <!-- <p align="center">
   <a href="https://github.com/surraaI"><img src="contributions.svg"></a> -->
-<!-- </p> -->
+</p>
 
 <br/>
 
