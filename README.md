@@ -49,9 +49,9 @@
   </p>
 
   
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surraaI&theme=gotham&layout=compact"width="40%"/> 
-</p>
+</p> -->
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/surraaI?tab=repositories">
